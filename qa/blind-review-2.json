@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's orange muzzle projects to the left of the eye and cap, with the far eye near the left outline; B's large muzzle projects right with its far eye near the right outline."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's mouth and rounded snout tip sit left of the head center; B's mouth and snout tip sit right of center, beyond the visible near eye."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has the orange muzzle protruding left and the visible ear behind it on the right; B has the muzzle protruding right and the visible ear behind it on the left."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's snout reaches the left silhouette while both eyes face that side; B's snout reaches the right silhouette, with eyes and mouth grouped on the right-facing front."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's broad muzzle tip and mouth extend right, and its farther eye is near the right contour; B's muzzle tip and mouth extend left, with its farther eye near the left contour."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's muzzle protrudes strongly left beneath left-facing eyes; B's lowered muzzle projects to the right and its right eye sits close to that outer contour."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's lowered orange muzzle extends farther left than the eye line and has its mouth toward the left; B's lowered snout has a farther-right tip, a right eye near that tip, and its mouth shifted right of the cap."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows a broad crown and the top of its cap, with eyes above a flattened low muzzle and mouth at the bottom edge; B has eyes compressed along the upper head rim and a large raised muzzle facing outward above the body."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's cap top and crown are exposed while the muzzle and smile tuck low near the chest; B's muzzle is lifted, the eyes lie along its top edge, and the cap is largely behind the raised face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's rounded muzzle rises in front of the eyes and its mouth sits high on that front surface; B exposes much more crown and cap top, with eyes lowered on the face and the mouth tucked at the bottom."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the crown from above and a low, shallow muzzle with its smile near the lower silhouette; B has a taller lifted muzzle, eyes near the upper face rim, and less visible cap top."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's cap top and upper skull are visible while its orange muzzle slopes down toward the low mouth; B's muzzle is raised in front of its upper-rim eyes, with the cap partly hidden behind the head."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A exposes the top of its cap and crown and has its smile tucked under the snout near the chest; B presents a lifted full orange muzzle with eyes riding high behind it and less visible crown."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the cap top and a down-sloping forehead, with the mouth low beneath the projecting snout; B's muzzle is higher and rounder, with the eye near its upper edge and the cap appearing flatter behind the head."
+    }
+  ]
+}

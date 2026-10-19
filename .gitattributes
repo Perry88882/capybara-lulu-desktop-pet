@@ -1,0 +1,2 @@
+# Preserve exact bytes so CHECKSUMS.sha256 works on every platform.
+* -text

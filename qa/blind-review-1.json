@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's rounded muzzle and mouth project to the left of the head, with the visible ear on the right. B's muzzle and mouth project right, with the visible ear on the left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A has its snout protruding at the left edge and a large exposed right cheek. B has its snout protruding at the right edge and a large exposed left cheek."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's mouth is on the far left of the muzzle and the right-side ear is exposed. B's mouth is on the far right and the left-side ear is exposed."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's muzzle protrudes left with its eyes concentrated toward the left-facing front. B's muzzle protrudes right with its eyes concentrated toward the right-facing front."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A's muzzle extends right, the small far eye is at the right edge, and the left ear is prominent. B's muzzle extends left, with the far eye at the left edge and the right ear prominent."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's low muzzle and mouth point left, with the visible cheek and ear behind them on the right. B's muzzle extends right, with the small far eye at the right edge and more cheek exposed on the left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's muzzle projects left and its small far eye sits at the left contour. B's muzzle projects right and its small far eye sits near the right contour."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows a broad top of the head with eyes directed toward the low muzzle and mouth near the chin. B has a raised muzzle, eyes high near the upper contour, and visible lower head above the neck."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A exposes the crown and cap from above, with the eye line low and the mouth under the low muzzle. B lifts its muzzle, places the eyes close to the upper outline, and exposes the lower head above the neck."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's raised snout has the eye line near the head's upper edge and its mouth high on the muzzle. B shows the crown broadly from above with a low eye line and mouth near the lower edge."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the top of the crown and a downward-sloping front toward the low muzzle and mouth. B's muzzle is lifted, its eyes sit near the upper head contour, and its lower cheek curves visibly down toward the neck."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A has a prominent visible crown and low projecting muzzle with its mouth near the chin. B's muzzle is raised toward its eye line, the eyes approach the upper contour, and the underside of the cheek is exposed."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's forehead and crown are visible above the eyes and its muzzle slopes down to the low mouth. B has a raised muzzle, a narrow strip of forehead above the eyes, and a long visible lower cheek beneath the mouth."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A shows the top of the cap and crown prominently, with its muzzle projecting low and mouth at the bottom. B's eye line is closer to the upper head outline, its muzzle projects higher, and more lower cheek is exposed above the neck."
+    }
+  ]
+}

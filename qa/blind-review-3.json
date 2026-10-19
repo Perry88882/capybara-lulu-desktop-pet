@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's orange muzzle projects left and its visible ear sits behind it on the right; B's muzzle projects right with the exposed ear behind it on the left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's mouth and rounded snout occupy the left side of the head below the eyes; B's snout and mouth project toward the right edge."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A shows a leftward muzzle tip with more yellow cheek behind it on the right; B shows the reverse, with a rightward muzzle and left rear cheek."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's near-profile snout extends to the left of the eyes; B's near-profile snout extends to their right."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A has a right-projecting muzzle and a broad exposed left cheek; B has a left-projecting muzzle and broad exposed right cheek."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's muzzle tip and mouth sit to the left with the right side of the skull exposed; B's low muzzle extends toward the right and the right eye sits near that outline."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A's muzzle extends left and its left eye is close to the head outline. B has a subtler rightward angle: the muzzle reaches farther right beneath the right eye, with more exposed cheek on the left."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A exposes the cap and upper skull while the eyes and muzzle sit low; B raises the muzzle above the neck, compresses the visible forehead, and places the eyes along its upper rim."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "down",
+      "B": "up",
+      "reason": "A's broad upper skull slopes down toward low eyes and muzzle; B's muzzle lifts outward and upward, with the eye high behind its top edge."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "up",
+      "B": "down",
+      "reason": "A's eye and lifted snout are high above the neck with little visible forehead; B shows the crown prominently and a low muzzle tucked toward the chest."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "down",
+      "B": "up",
+      "reason": "A displays the top of its cap and forehead above eyes directed toward a low muzzle; B's chin and snout are raised with the eye near the top outline."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "down",
+      "B": "up",
+      "reason": "A's cap and upper head are prominent and the snout angles down toward the chest; B's large raised muzzle points upward and conceals most forehead beneath the cap."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A's visible upper skull leads to eyes and a muzzle angled down; B's snout is lifted to the left and its underside is exposed above the neck."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A's muzzle and mouth angle low beneath the eyes with substantial crown visible; B raises the muzzle and chin while its forehead is compressed near the upper eye line."
+    }
+  ]
+}

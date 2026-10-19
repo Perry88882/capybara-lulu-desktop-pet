@@ -1,0 +1,123 @@
+{
+  "reviewer": "parent visual review of final encoded native-size cells and ordered direction sheet",
+  "directions": [
+    {
+      "label": "000",
+      "expected": "up",
+      "observed": "Frontal face pitches up.",
+      "verdict": "pass",
+      "evidence": "Muzzle and tooth rise, chin underside is exposed and eyes sit high at the head rim; feet remain frontal."
+    },
+    {
+      "label": "022.5",
+      "expected": "up-right",
+      "observed": "Upward head tilt with rightward face projection.",
+      "verdict": "pass",
+      "evidence": "Raised orange muzzle projects right of neck center; the upper eye and visible chin preserve the up axis."
+    },
+    {
+      "label": "045",
+      "expected": "up-right",
+      "observed": "Raised head turns farther right.",
+      "verdict": "pass",
+      "evidence": "Muzzle/tooth project screen-right, eyes look high on the right-facing head surface, underside remains visible."
+    },
+    {
+      "label": "067.5",
+      "expected": "up-right",
+      "observed": "Mostly rightward face with a subtle upward pitch.",
+      "verdict": "warning",
+      "evidence": "Muzzle is right of neck and slightly lifted compared with 090; eye and tooth position retain the upward component in the ordered arc."
+    },
+    {
+      "label": "090",
+      "expected": "right",
+      "observed": "Head clearly aims screen-right.",
+      "verdict": "pass",
+      "evidence": "Orange muzzle, tooth and eyes project right of planted frontal torso; near ear and foreshortened face confirm right yaw."
+    },
+    {
+      "label": "112.5",
+      "expected": "down-right",
+      "observed": "Right-facing head begins bowing.",
+      "verdict": "pass",
+      "evidence": "Muzzle remains right of neck center while eyes/mouth descend and the crown becomes more visible."
+    },
+    {
+      "label": "135",
+      "expected": "down-right",
+      "observed": "Head bows farther while still facing right.",
+      "verdict": "pass",
+      "evidence": "Crown and fruit top are exposed, eyes and tooth are low, and orange muzzle projects to screen-right."
+    },
+    {
+      "label": "157.5",
+      "expected": "down-right",
+      "observed": "Strong downward bow with slight right yaw.",
+      "verdict": "warning",
+      "evidence": "Eyes and tooth lie low under the visible crown; muzzle and eye layout remain slightly right of torso center before 180. The near-vertical horizontal component is subtle."
+    },
+    {
+      "label": "180",
+      "expected": "down",
+      "observed": "Frontal head looks down.",
+      "verdict": "pass",
+      "evidence": "Both eyes sit low under the enlarged crown, orange muzzle/tooth is lowered and head fruit top is visible; face remains centered above frontal feet."
+    },
+    {
+      "label": "202.5",
+      "expected": "down-left",
+      "observed": "Bowed head begins turning screen-left.",
+      "verdict": "pass",
+      "evidence": "Lowered muzzle projects left of neck, eye line and tooth descend while crown and orange top stay visible."
+    },
+    {
+      "label": "225",
+      "expected": "down-left",
+      "observed": "Head faces left and down.",
+      "verdict": "pass",
+      "evidence": "Muzzle and tooth shift farther left, eyes remain low on the head and exposed crown establishes the down axis."
+    },
+    {
+      "label": "247.5",
+      "expected": "down-left",
+      "observed": "Mostly leftward face with slight downward pitch.",
+      "verdict": "warning",
+      "evidence": "Muzzle clearly projects screen-left; eye line and tooth are slightly lower than at 270 while the crown remains exposed. Subtle down component reads in the ordered arc."
+    },
+    {
+      "label": "270",
+      "expected": "left",
+      "observed": "Head clearly aims screen-left.",
+      "verdict": "pass",
+      "evidence": "Broad orange muzzle and tooth project left of neck with eyes on the left-facing head surface; frontal torso/feet retain their anchor."
+    },
+    {
+      "label": "292.5",
+      "expected": "up-left",
+      "observed": "Left-facing head begins lifting.",
+      "verdict": "pass",
+      "evidence": "Muzzle projects left and tilts upward, eye line rises relative to 270 and the tooth/mouth lift."
+    },
+    {
+      "label": "315",
+      "expected": "up-left",
+      "observed": "Raised head looks toward screen-left.",
+      "verdict": "pass",
+      "evidence": "Leftward muzzle is raised, chin underside becomes visible and eyes angle high toward the left."
+    },
+    {
+      "label": "337.5",
+      "expected": "up-left",
+      "observed": "Raised left-facing head continues toward the up family.",
+      "verdict": "warning",
+      "evidence": "Muzzle and eye surface remain screen-left while lifted chin/tooth and high eyes establish up. Similar to 315 and has stronger left yaw than an exact even step, but no wrong quadrant or reversal."
+    }
+  ],
+  "continuity_review": {
+    "157.5->180": "The metric highlights a 9.7px silhouette-center change as the bowed head returns from right yaw to frontal down. Lower torso and feet remain anchored; normal-size ordered cells show natural head movement rather than a body registration jump.",
+    "292.5->315": "Head pitches farther upward with slightly more exposed chin; stable feet, scale and identity. The difference outlier reflects head pose.",
+    "337.5->000": "Last up-left head yaws back to frontal up. At native size this is a readable closing head turn, with stable lower-body anchor and no direction reversal or scale pop.",
+    "loop": "Reviewed all sixteen final cells in order, including both row boundaries. No clipping, alpha holes, identity drift, detached fruit, whole-body turntable or wrong cardinal. Similar neighboring intermediate poses and uneven head-angle spacing retained as documented warnings."
+  }
+}

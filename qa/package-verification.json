@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "official_png_sha256": "804dbaf4df52507f4fac73108b47eb1ad8de4ad833708cd89a1e04bb14e861b9",
+  "rebuilt_png_identical_bytes": true,
+  "extracted_frames": 73,
+  "rendered_gif_files": 14,
+  "rendered_mp4_nonempty": true,
+  "privacy_scan_passed": true,
+  "archive_excludes": [
+    "build/",
+    "__pycache__/",
+    ".venv/",
+    ".git/"
+  ],
+  "scope": "Packaging/tool execution verification; historical pet-artwork acceptance is documented in the other QA reports."
+}
