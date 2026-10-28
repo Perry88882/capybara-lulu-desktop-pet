@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "created_at": "2026-10-19T15:28:38.831464+08:00",
+  "created_at": "2026-10-25T05:52:05.826369+00:00",
   "run_dir": "<creation-run>",
   "primary_generation_skill": "$imagegen",
   "jobs": [
@@ -154,7 +154,7 @@
       },
       "source_path": "decoded\\running-right.png",
       "derived_from": "running-right",
-      "completed_at": "2026-10-19T15:40:18.711931+08:00",
+      "completed_at": "2026-10-25T06:01:45.291027+00:00",
       "metadata": {
         "width": 2172,
         "height": 724,
@@ -163,8 +163,8 @@
       },
       "mirror_decision": {
         "approved": true,
-        "approved_at": "2026-10-19T15:40:18.711931+08:00",
-        "note": "Approved after viewing rightward strip. No handed props, text, directional markings or asymmetric details; round fruit and neutral lighting remain correct when each frame is mirrored in temporal order.",
+        "approved_at": "2026-10-25T06:01:45.291027+00:00",
+        "note": "Approved rightward toothless sequence. Bilaterally symmetric unmarked yellow body, plain shorts and centered attached orange, diffuse light without handed props. Mirror individual poses preserving temporal order.",
         "transform": "framewise-horizontal-mirror-preserving-order"
       }
     },
@@ -408,10 +408,10 @@
       "status": "complete",
       "prompt_file": "prompts/look-cardinals.md",
       "repair_prompt_files": {
-        "000": "prompts/look-anchor-repairs/000.md",
-        "090": "prompts/look-anchor-repairs/090.md",
         "180": "prompts/look-anchor-repairs/180.md",
-        "270": "prompts/look-anchor-repairs/270.md"
+        "270": "prompts/look-anchor-repairs/270.md",
+        "000": "prompts/look-anchor-repairs/000.md",
+        "090": "prompts/look-anchor-repairs/090.md"
       },
       "input_images": [
         {
@@ -606,5 +606,6 @@
       "individual_cell_packaging_allowed": false,
       "packaging_eligible": true
     }
-  ]
+  ],
+  "completed_at": "2026-10-28"
 }

@@ -1,8 +1,7 @@
 {
-  "pet_id": "lulu",
   "display_name": "Lulu",
-  "description": "水豚噜噜：圆滚滚的黄色小水豚，戴小橘子、穿橙色短裤，陪你轻松工作。.",
-  "created_at": "2026-10-19T07:28:38.794928+00:00",
+  "description": "A compact ChatGPT pet: Update existing Lulu. Smooth golden-yellow cartoon capybara, huge round head, broad orange oval muzzle, glossy black eyes with white rims, tiny ears, small orange fruit attached atop head, orange shorts. REMOVE ALL TEETH in every frame. Closed mouth is a tiny thin dark curved smile, no white area and no protrusion. Open mouth can show dark interior only, no teeth. Preserve identity, proportions and soft smooth 3D style. Richer microacting: eyelid blinks, breathing, tiny ear movement, head tilt, alternating arm and leg cadence, wave wrist and elbow, jump anticipation-airtime-landing, distinct asking/thinking/inspection poses. Torso feet anchored during look, head and muzzle rotate and pitch with whole eye surfaces. No effects, no new props.",
+  "created_at": "2026-10-25T05:52:05.756586+00:00",
   "sprite_version_number": 2,
   "atlas": {
     "columns": 8,
@@ -249,11 +248,11 @@
   "references": [
     {
       "path": "<creation-run>\\references\\reference-01.png",
-      "width": 2553,
-      "height": 801,
+      "width": 1536,
+      "height": 2288,
       "mode": "RGBA",
       "format": "PNG",
-      "source_path": "<creation-run>\\work\\lulu\\references\\user-lulu-reference.png",
+      "source_path": "<creation-run>\\references\\stored-spritesheet.png",
       "copied_path": "<creation-run>\\references\\reference-01.png"
     }
   ],
@@ -267,10 +266,10 @@
     "name": "user-selected",
     "selection": "manual"
   },
-  "pet_notes": "Match the USER supplied reference screenshot character accurately. Lulu is smooth yellow 3D cartoon, huge round head with very wide orange-yellow OVAL muzzle spanning lower face, tiny black curved smile and one white front tooth, glossy black round eyes with small white rims, tiny rounded side ears, chubby small body, short rounded arms and legs, plain orange shorts, tiny rounded orange fruit on top of head. NO brown muzzle, NO fur, NO paws with claws, NO realistic capybara anatomy, NO fabric texture. Keep fruit touching head. No new props. Preserve smooth minimal cartoon rendering, pale golden yellow body and warm orange muzzle. Head leads directional looks, eyes and muzzle visibly aim up/down/left/right while torso/feet stay anchored.",
+  "pet_notes": "Update existing Lulu. Smooth golden-yellow cartoon capybara, huge round head, broad orange oval muzzle, glossy black eyes with white rims, tiny ears, small orange fruit attached atop head, orange shorts. REMOVE ALL TEETH in every frame. Closed mouth is a tiny thin dark curved smile, no white area and no protrusion. Open mouth can show dark interior only, no teeth. Preserve identity, proportions and soft smooth 3D style. Richer microacting: eyelid blinks, breathing, tiny ear movement, head tilt, alternating arm and leg cadence, wave wrist and elbow, jump anticipation-airtime-landing, distinct asking/thinking/inspection poses. Torso feet anchored during look, head and muzzle rotate and pitch with whole eye surfaces. No effects, no new props.",
   "style_preset": "3d-toy",
-  "style_notes": "Smooth simple cartoon matching user image, no fur texture or realistic animal detailing.",
-  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity. User style notes: Smooth simple cartoon matching user image, no fur texture or realistic animal detailing..",
+  "style_notes": "",
+  "style_contract": "Pet-safe sprite: compact full-body mascot, readable in a 192x208 cell, clear silhouette, simple face, stable palette/materials, and crisp edges for chroma-key extraction. Style `3d-toy`: Stylized 3D toy mascot with smooth rounded forms, simple materials, clear silhouette, and no photoreal complexity.",
   "brand_name": "",
   "brand_brief": "",
   "brand_sources": [],

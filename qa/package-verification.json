@@ -1,16 +1,31 @@
 {
   "ok": true,
-  "official_png_sha256": "804dbaf4df52507f4fac73108b47eb1ad8de4ad833708cd89a1e04bb14e861b9",
+  "art_revision": 3,
+  "sprite_schema_version": 2,
+  "final_atlas_sha256": "df3d375366066203ef5543ed0220819db73a7a0e9ef4da5bc0678efa258a1b8e",
+  "rebuilt_atlas_sha256": "df3d375366066203ef5543ed0220819db73a7a0e9ef4da5bc0678efa258a1b8e",
+  "rebuilt_rgba_pixels_identical": true,
   "rebuilt_png_identical_bytes": true,
   "extracted_frames": 73,
+  "rendered_artifact_sha256": {
+    "idle.gif": "87f694b9a228c21c320670cf314eca1cc1649dfaa1c2a173e7a89f5f801c754e",
+    "running-right.gif": "82c5200d2b632b7aac315e6b2c9ff1f1c005081f83b06d3d189e91e9640f2ed4",
+    "running-left.gif": "975a29d646727dc93711056b2fd28cc3b62de8c2d12042ab1c59b4bf5a7355a3",
+    "waving.gif": "f26c30650f0eb4334f6aa235b2fb3622976f5d05704db55003da0f8a87cc40d3",
+    "jumping.gif": "31cd8a9c499f88ab70e5e3c1e27cc3c45b90393627bf3a6167e00fb274659af8",
+    "failed.gif": "447165d77efb12d9b6c9b71083e5a503ac7c709fc5a3b7243b18b55d29f1260c",
+    "waiting.gif": "fccd671c7af2a7d9bbf51930b9ace1dccdbb53ca33eb333ab8bc3799571dc701",
+    "running.gif": "6b06b2392b12131a4d9ade4c383ac4b4a9d3810b1e7b5e6d3d32e4bf7dbf6179",
+    "review.gif": "ea48ee845329e8cfc323691a4a7588dfaea551cda84c506fcd6baa8d0f4af0d5",
+    "look-a.gif": "15d6a1673e1a4f5e8564ba0cba74ef2552b11c4f8a33ff41b583c9cdc04fa41f",
+    "look-b.gif": "421aa7ed664727135564328ef6e42a7bd01f8b328a34097536e32a6bdbc3709d",
+    "all-states.gif": "b7c9deab6f73860db691c4c5ed7b87b85b71608d9b3203f9d1f74f4c269f9c46",
+    "look-loop.gif": "391611e74d4a4c234242c12aefddd30da48c999a9600b387f2db4b120f6628a7",
+    "idle-jump-idle.gif": "1be1e8d0133ad845eb19177a82d6b88c49b2c0c5dc7d15615191eff9c1ee6512",
+    "all-states.mp4": "68a7503ef4e2d6ca4d65ac321cb7ae1acf07508679e327e2059d1230657050ed"
+  },
   "rendered_gif_files": 14,
-  "rendered_mp4_nonempty": true,
+  "mp4_container_present": true,
   "privacy_scan_passed": true,
-  "archive_excludes": [
-    "build/",
-    "__pycache__/",
-    ".venv/",
-    ".git/"
-  ],
-  "scope": "Packaging/tool execution verification; historical pet-artwork acceptance is documented in the other QA reports."
+  "scope": "Actual portable rebuild pixels, GIF decoding, MP4 header and public package privacy. Art semantics are covered by the separate v3 QA evidence. MP4 playback is not asserted here."
 }

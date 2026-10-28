@@ -1,9 +1,7 @@
-Lulu look mechanics (screen coordinates)
-- Feet, orange shorts and torso remain front-facing and planted, keeping body center and ground baseline steady.
-- The round head turns at the neck. Muzzle direction and the two glossy black eyes lead gaze; ears follow the head naturally. Preserve original white eye rims and black eyes.
-- Up: pitch head upward, lift broad muzzle and tiny tooth, show underside of muzzle/chin, both eyes aim up.
-- Right: yaw head toward screen-right; broad muzzle projects to right, left/right eyes foreshorten naturally, torso stays frontal.
-- Down: bow head, lower muzzle and eyes, show more crown and orange fruit, preserve face visibility.
-- Left: yaw head toward screen-left with muzzle projecting left, torso stays frontal.
-- The small orange stays attached to the head and follows slight head tilt. No fruit detachment, replacement eyes, turntable body spin, whole-cell rotation, warp or pupil-only movement.
-- Intermediate directions blend head pitch and yaw in even clockwise steps; keep each entire eight-pose row one coherent family.
+# Lulu head-and-muzzle gaze mechanics
+
+Feet, orange shorts and lower torso stay front-facing and planted. The large separate head leads each direction through yaw and pitch; the broad orange muzzle, eyelids, whole glossy eyes, ears and attached orange follow the head physically. The fruit remains attached to the crown.
+
+Up: frontal chin lifts, muzzle rises, eye surfaces move near the upper head rim, underside/chin shows. Down: frontal head bows, crown and fruit top become visible, eyes and muzzle descend. Right/left: head yaws toward that screen edge while the lower torso stays frontal; muzzle and eyes clearly project toward the named edge.
+
+Diagonal poses combine visible yaw and pitch; intermediate angles transition gradually. Maintain 000 up, 090 screen-right, 180 down, 270 screen-left. Mouth is a small dark curve, without teeth or white interior in any direction. No whole-body turntable, pupil-only slides, new eyes, detached fruit, independent recentering, or scale changes.

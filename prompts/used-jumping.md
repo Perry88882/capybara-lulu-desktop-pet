@@ -1,0 +1,7 @@
+Create one horizontal five-frame coherent animation strip for Lulu, using the canonical toothless base as the authoritative updated design and the installed sheet only for original identity. Use the invisible layout guide for five slots; never draw it.
+
+Smooth golden yellow 3D cartoon capybara, very large rounded head, wide orange oval muzzle, glossy black eyes with small white rims, small ears, small orange fruit touching head, chubby body and orange shorts. Same proportions, lighting and head size in all five poses. No teeth at all: a small closed dark curved smile or dark open mouth with no white inside.
+
+Jump sequence left to right: 1 crouch anticipation, knees bent and hands gathered near belly; 2 upward takeoff, arms open, feet clearly above baseline; 3 highest airborne peak, arms raised and legs tucked slightly, joyful crescent eyelids; 4 descent, eyes open, arms lower, feet still above baseline; 5 soft landing settle near neutral, knees slightly flex then recover. Peak feet about one quarter of body height ABOVE first/last feet. This is real vertical translation at stable character scale, not size changes. Preserve the same head width throughout, keep the fruit attached.
+
+Exactly five complete, separated full-body sprites in a single horizontal row, with generous magenta space above and between; centered within five equal invisible slots. Pure flat #FF00FF background. No shadows, ground marks, speed lines, effects, text, numbers, guides, extra props, clipped limbs or teeth. Use a wide canvas with enough vertical height for the jump.
